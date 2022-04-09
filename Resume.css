@@ -1,0 +1,23 @@
+body {
+    background-color: #f5fffa;
+}
+
+.A {
+    color: rgb(21, 159, 228);
+}
+
+.B {
+    color: rgb(139, 22, 179);
+}
+
+hr {
+    height: 2px;
+    color: black;
+    background-color: black;
+    border-width: 1;
+}
+
+.C {
+    font-size: 20px;
+    color: black;
+}
